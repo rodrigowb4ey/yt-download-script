@@ -8,5 +8,5 @@
 - Abra o terminal na pasta em que fez o download dos arquivos
 - Execute o comando -> pip install pytube
 - Em seguida, execute o comando -> python script.py
-- Copie a URL para o canto indicado
+- Copie a URL do vídeo para o canto indicado no terminal
 - Enjoy =)
